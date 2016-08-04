@@ -1,0 +1,36 @@
+_repo: Thomas-Jefferson-a-Character-Sketch_712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: 'Thomas Jefferson: A Character Sketch is a compilation of several essays
+  and anecdotes about the life of this unusual man. It begins with two essays covering
+  his life from birth to death. The two span the first fifty pages of the book and
+  are are well written, though penned by different authors. Also included is a significant
+  speech by Daniel Webster given four weeks after Jefferson''s death. (Both John Adams
+  and Thomas Jefferson died on July 4th, 1826, the fiftieth anniversary of the signing
+  of the Declaration of Independence.) The rest of the pages are filled with anecdotes
+  and short stories from the life of Jefferson. -Amazon.com.'
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Jefferson, Thomas, 1743-1826'
+- !lcc 'E300'
+- GITenberg
+title: Thomas Jefferson, a Character Sketch
+url: http://www.gutenberg.org/ebooks/712
